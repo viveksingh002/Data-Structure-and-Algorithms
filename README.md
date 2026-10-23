@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -24,10 +25,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
