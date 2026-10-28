@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
