@@ -7,6 +7,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -54,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
