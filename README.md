@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
