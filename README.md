@@ -17,6 +17,7 @@
 | [0414-third-maximum-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,4 +78,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
