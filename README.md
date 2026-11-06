@@ -28,6 +28,7 @@
 | [1470-shuffle-the-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
+| [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
 <!---LeetCode Topics End-->
