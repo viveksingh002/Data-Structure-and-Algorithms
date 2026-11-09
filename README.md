@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
@@ -43,6 +45,7 @@
 | [0001-two-sum](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -54,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +97,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
@@ -105,5 +110,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
 <!---LeetCode Topics End-->
