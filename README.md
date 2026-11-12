@@ -45,6 +45,7 @@
 | [0001-two-sum](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@
 | [0088-merge-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
@@ -80,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [1528-shuffle-string](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
