@@ -1,10 +1,13 @@
-
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(s.begin(), s.end()); //first be sort the string
+        if(s.size() != t.size()) {
+            return false;
+        }
+
+        sort(s.begin(), s.end());
         sort(t.begin(), t.end());
 
-        return s == t; //check the both string are equal or not 
+        return s == t;
     }
 };
