@@ -20,6 +20,7 @@
 | [0414-third-maximum-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
@@ -115,4 +117,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
