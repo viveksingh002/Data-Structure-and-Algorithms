@@ -31,6 +31,7 @@
 | [1470-shuffle-the-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1528-shuffle-string) |
+| [1732-find-the-highest-altitude](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
 ## Math
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
