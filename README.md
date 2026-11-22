@@ -29,6 +29,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
 ## Sorting
@@ -72,6 +75,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
