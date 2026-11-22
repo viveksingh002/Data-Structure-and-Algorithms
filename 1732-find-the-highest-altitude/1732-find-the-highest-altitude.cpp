@@ -14,6 +14,7 @@ public:
                 maxi = hightestaltitude[i];
             }
         }
+        // int maxi = *max_element(hightestaltitude.begin(), hightestaltitude.end());
 
         return maxi;
     }
