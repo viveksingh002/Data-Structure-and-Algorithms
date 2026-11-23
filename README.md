@@ -33,6 +33,7 @@
 | [1512-number-of-good-pairs](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1732-find-the-highest-altitude) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/2032-two-out-of-three) |
 ## Math
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/viveksingh002/Data-Structure-and-Algorithms/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Simulation
 |  |
 | ------- |
